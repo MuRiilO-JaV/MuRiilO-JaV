@@ -22,12 +22,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuRiilO-JaV&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/717lilo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=717lilo&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
